@@ -1,0 +1,21 @@
+2023-06-&d 07:27:1687062455 INFO ====== WebDriver manager ======
+2023-06-&d 07:27:1687062456 INFO Driver [/home/user/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver] found in cache
+2023-06-&d 07:27:1687062462 INFO Enter login 
+2023-06-&d 07:27:1687062463 INFO Enter password 
+2023-06-&d 07:27:1687062463 INFO Click login button 
+2023-06-&d 07:27:1687062467 INFO Hello, qwert22
+2023-06-&d 07:27:1687062467 INFO Click About button
+2023-06-&d 07:27:1687062470 INFO About Page is loaded, title is visible
+2023-06-&d 07:27:1687062470 INFO About Page title has 32px font size
+2023-06-&d 07:27:1687062470 INFO ====== WebDriver manager ======
+2023-06-&d 07:27:1687062470 INFO Driver [/home/user/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver] found in cache
+2023-06-&d 07:27:1687062475 INFO Enter login 
+2023-06-&d 07:27:1687062475 INFO Enter password 
+2023-06-&d 07:27:1687062476 INFO Click login button 
+2023-06-&d 07:27:1687062479 INFO Hello, qwert22
+2023-06-&d 07:27:1687062479 INFO Click About button
+2023-06-&d 07:28:1687062482 INFO About Page is loaded, title is visible
+2023-06-&d 07:28:1687062483 INFO About Page title has 32px font size
+2023-06-&d 07:28:1687062483 INFO Get username
+2023-06-&d 07:28:1687062483 INFO Get user token and id
+2023-06-&d 07:28:1687062484 INFO Get user token and id
